@@ -1,4 +1,4 @@
-# Project Name
+# Molecular Docking + Analysis
 
 Undergraduate dissertation project using UniDock and AutoDock-GPU for Structural-Based Virtual Screening (SBVS)
 
